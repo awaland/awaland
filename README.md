@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello this is awaland
 
-<!--
-**awaland/awaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[AwAland](https://awaland.info/ "AwAland")官方Github账户，您可以在这里加入awaland的组织！
 
-Here are some ideas to get you started:
+awaland官方网站
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://awaland.info/
+
+https://www.awaland.info/
+
+awaland社区
+
+https://lounge.awaland.info/
+
+联系我们，通过reply@awaland.info
